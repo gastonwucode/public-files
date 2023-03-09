@@ -8,3 +8,4 @@
 ## redis
 - source https://github.com/phpredis/phpredis/archive/5.3.4.tar.gz
 ## youtube
+- source https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp
